@@ -13,11 +13,23 @@
       "skillPath": "design/skills/design-critique/SKILL.md",
       "computedHash": "55100e100ac2789175128df2899e8ace3c8732300cd2719df26c57b13e391ff8"
     },
+    "dsm5": {
+      "source": "magnus919/agent-skills",
+      "sourceType": "github",
+      "skillPath": "dsm5/SKILL.md",
+      "computedHash": "795b07a919edaeaf4fbb90ab8b06de890ade683eef537ee54abae7d220f577ba"
+    },
     "impeccable": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "skillPath": ".agents/skills/impeccable/SKILL.md",
       "computedHash": "de7de6829490819b3c18cfdad2c93d002bd428c4b738d29b971ef3dc8f911d08"
+    },
+    "psychologist-analyst": {
+      "source": "freedomintelligence/openclaw-medical-skills",
+      "sourceType": "github",
+      "skillPath": "skills/psychologist-analyst/SKILL.md",
+      "computedHash": "4b8cffb974156dc1170aebfba9bc6b4ea4bcac889eb433647448506db7f5516b"
     },
     "web-design-guidelines": {
       "source": "vercel-labs/agent-skills",
